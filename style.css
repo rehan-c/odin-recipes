@@ -1,0 +1,24 @@
+body {
+    background-color:#ffebcd;
+    text-align: center;
+    font-family: serif;
+}
+
+ul > li {
+    color: #808080;
+}
+
+li > a {
+    color: #808080;
+    font-weight: bold;
+}
+
+.index {
+    color: #808080;
+    font-weight: bold;
+}
+
+.ingredients {
+    font-weight: bold;
+    padding-right:30px;
+}
