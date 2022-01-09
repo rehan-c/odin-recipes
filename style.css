@@ -6,11 +6,13 @@ body {
 
 ul > li {
     color: #808080;
+    list-style-position: inside;
 }
 
 li > a {
     color: #808080;
     font-weight: bold;
+    padding-right: 40px;
 }
 
 .index {
@@ -20,5 +22,10 @@ li > a {
 
 .ingredients {
     font-weight: bold;
-    padding-right:30px;
+    padding-right:40px;
+}
+
+.steps {
+    list-style-position: inside;
+    padding-right: 40px;
 }
